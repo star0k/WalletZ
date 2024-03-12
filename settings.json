@@ -1,10 +1,4 @@
 {"settings":
-  "languages":{
-      "ar" : {"link" : "https://xxx.yy/zz.n","icon":"https://xxx.yy/zz.n"},
-      "en" : {"link" : "https://xxx.yy/zz.n","icon":"https://xxx.yy/zz.n"}
-  },
-  "colors": {
-    "1":"red",
-    "2":"green"
-  }
+  "languages":{ "ar" : {"link" : "https://xxx.yy/zz.n","icon":"https://xxx.yy/zz.n"},"en" : {"link" : "https://xxx.yy/zz.n","icon":"https://xxx.yy/zz.n"}},
+  "colors": {"1":"red","2":"green"}
 }
